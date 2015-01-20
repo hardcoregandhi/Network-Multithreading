@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///E:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-01-09T09:50:58" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1' -  (ModelStoreModel)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Buffer' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Semaphore' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Drawing' -  (Package)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Drawing::Color' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Drawing::Point' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows' -  (Package)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms' -  (Package)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::PaintEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Windows::Forms::Panel' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread' -  (Class)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::bufferInput' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::bufferOutput' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::bufferParking' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::colour' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::delay' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::destination' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::movePlane' -  (Operation)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::movePlane::xDelta' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::movePlane::yDelta' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::northSouth' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::origin' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::panel' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::panel_Paint' -  (Operation)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::panel_Paint::e' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::panel_Paint::sender' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::plane' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::semaphoreInput' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::semaphoreOutput' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::semaphoreParking' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::Start' -  (Operation)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread' -  (Operation)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::bufferInput' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::bufferOutput' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::bufferParking' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::colour' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::delay' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::destination' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::northSouth' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::origin' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::panel' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::semaphoreInput' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::semaphoreOutput' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::semaphoreParking' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::WaitPanelThread::westEast' -  (Parameter)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::westEast' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::xDelta' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::yDelta' -  (Property)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::WaitPanelThread::zeroPlane' -  (Operation)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::System::Windows::Forms::PaintEventArgs to ModelingProject1::System::EventArgs (Generalization)" />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="High" Text="(7) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-01-09T09:50:59" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

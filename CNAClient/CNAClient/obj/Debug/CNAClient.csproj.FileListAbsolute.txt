@@ -1,0 +1,11 @@
+c:\users\joey\documents\visual studio 2013\Projects\CNAClient\CNAClient\bin\Debug\CNAClient.exe.config
+c:\users\joey\documents\visual studio 2013\Projects\CNAClient\CNAClient\bin\Debug\CNAClient.exe
+c:\users\joey\documents\visual studio 2013\Projects\CNAClient\CNAClient\bin\Debug\CNAClient.pdb
+c:\users\joey\documents\visual studio 2013\Projects\CNAClient\CNAClient\obj\Debug\CNAClient.exe
+c:\users\joey\documents\visual studio 2013\Projects\CNAClient\CNAClient\obj\Debug\CNAClient.pdb
+C:\Users\Joey\Documents\Visual Studio 2013\Projects\CNAClient\CNAClient\obj\Debug\CNAClient.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Documents\Visual Studio 2013\Projects\CNAClient\CNAClient\obj\Debug\ConsoleClient.resources
+C:\Users\Joey\Documents\Visual Studio 2013\Projects\CNAClient\CNAClient\obj\Debug\CNAClient.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\CNAClient\CNAClient\bin\Debug\CNAClient.exe.config
+C:\Users\Joey\Desktop\CNAClient\CNAClient\obj\Debug\CNAClient.exe
+C:\Users\Joey\Desktop\CNAClient\CNAClient\obj\Debug\CNAClient.pdb

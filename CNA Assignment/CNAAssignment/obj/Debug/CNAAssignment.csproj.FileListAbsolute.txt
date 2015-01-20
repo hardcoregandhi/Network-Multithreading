@@ -1,0 +1,23 @@
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\bin\Debug\CNAAssignment.exe.config
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\bin\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\bin\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\obj\Debug\Form1.resources
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\obj\Debug\CNAAssignment.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\obj\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\ConsoleApplication1\CNAAssignment\obj\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\bin\Debug\CNAAssignment.exe.config
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\obj\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\obj\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\bin\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\bin\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\obj\Debug\CNAAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\obj\Debug\Form1.resources
+C:\Users\Joey\Desktop\CNA Assignment\CNAAssignment\obj\Debug\CNAAssignment.csproj.GenerateResource.Cache
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\bin\Debug\CNAAssignment.exe.config
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\obj\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\obj\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\bin\Debug\CNAAssignment.exe
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\bin\Debug\CNAAssignment.pdb
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\obj\Debug\CNAAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\obj\Debug\Form1.resources
+C:\Users\Joey\Desktop\CNA Assignment - Copy\CNAAssignment\obj\Debug\CNAAssignment.csproj.GenerateResource.Cache
